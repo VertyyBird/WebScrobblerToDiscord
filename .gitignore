@@ -1,0 +1,22 @@
+# Ignore configuration files
+config.php
+
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore node_modules
+/node_modules/
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.iml
